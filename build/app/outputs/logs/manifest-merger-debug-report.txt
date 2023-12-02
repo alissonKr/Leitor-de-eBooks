@@ -1,0 +1,325 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:2:5-32:19
+MERGED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:16:5-46:19
+MERGED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:16:5-46:19
+MERGED from [com.github.codetoart:r2-shared-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/dee7302e1f62fbc7cd928c3d7d806e92/transformed/jetified-r2-shared-kotlin-1.0.4-2/AndroidManifest.xml:18:5-21:47
+MERGED from [com.github.codetoart:r2-shared-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/dee7302e1f62fbc7cd928c3d7d806e92/transformed/jetified-r2-shared-kotlin-1.0.4-2/AndroidManifest.xml:18:5-21:47
+MERGED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:18:5-26:19
+MERGED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:18:5-26:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.0.0] /home/kruger/.gradle/caches/transforms-3/ad4b6667b485239ae5e13d4eba5d4ba1/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/kruger/.gradle/caches/transforms-3/ad4b6667b485239ae5e13d4eba5d4ba1/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/kruger/.gradle/caches/transforms-3/f234011b5a70ed25f63088c247b66beb/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/kruger/.gradle/caches/transforms-3/f234011b5a70ed25f63088c247b66beb/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.6.0] /home/kruger/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/kruger/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kruger/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kruger/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.mcxiaoke.koi:core:0.5.5] /home/kruger/.gradle/caches/transforms-3/98bf7e2ff6181871b62636953fba55fa/transformed/jetified-core-0.5.5/AndroidManifest.xml:10:5-20
+MERGED from [com.mcxiaoke.koi:core:0.5.5] /home/kruger/.gradle/caches/transforms-3/98bf7e2ff6181871b62636953fba55fa/transformed/jetified-core-0.5.5/AndroidManifest.xml:10:5-20
+MERGED from [com.mcxiaoke.koi:async:0.5.5] /home/kruger/.gradle/caches/transforms-3/48b6cf5003d9385361ff63f94c7c3246/transformed/jetified-async-0.5.5/AndroidManifest.xml:10:5-20
+MERGED from [com.mcxiaoke.koi:async:0.5.5] /home/kruger/.gradle/caches/transforms-3/48b6cf5003d9385361ff63f94c7c3246/transformed/jetified-async-0.5.5/AndroidManifest.xml:10:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kruger/.gradle/caches/transforms-3/24bf9b3527615c80284482f3fee2897d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kruger/.gradle/caches/transforms-3/24bf9b3527615c80284482f3fee2897d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/kruger/.gradle/caches/transforms-3/2c98c555c0147e0066b806c39a5444ce/transformed/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/kruger/.gradle/caches/transforms-3/2c98c555c0147e0066b806c39a5444ce/transformed/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/kruger/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.github.codetoart:r2-shared-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/dee7302e1f62fbc7cd928c3d7d806e92/transformed/jetified-r2-shared-kotlin-1.0.4-2/AndroidManifest.xml:20:9-35
+	android:allowBackup
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:17:9-35
+		REJECTED from [com.github.codetoart:r2-shared-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/dee7302e1f62fbc7cd928c3d7d806e92/transformed/jetified-r2-shared-kotlin-1.0.4-2/AndroidManifest.xml:19:9-36
+		REJECTED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:19:9-36
+	android:networkSecurityConfig
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:18:9-69
+	tools:replace
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:19:9-44
+	android:name
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:vocsy_epub_viewer] /home/kruger/Leitor-de-eBooks/build/vocsy_epub_viewer/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] /home/kruger/Leitor-de-eBooks/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] /home/kruger/Leitor-de-eBooks/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /home/kruger/Leitor-de-eBooks/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:2:1-48:12
+MERGED from [com.github.codetoart:r2-shared-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/dee7302e1f62fbc7cd928c3d7d806e92/transformed/jetified-r2-shared-kotlin-1.0.4-2/AndroidManifest.xml:10:1-23:12
+MERGED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:10:1-28:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.material:material:1.0.0] /home/kruger/.gradle/caches/transforms-3/ad4b6667b485239ae5e13d4eba5d4ba1/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/kruger/.gradle/caches/transforms-3/ee009c2d3e23957b0e52a038e470c965/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/kruger/.gradle/caches/transforms-3/f234011b5a70ed25f63088c247b66beb/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kruger/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/kruger/.gradle/caches/transforms-3/dc2e7179475514c45f1b109d375e9af1/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/kruger/.gradle/caches/transforms-3/df34f3a7e93a7e60a840c42b5d37e0c9/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kruger/.gradle/caches/transforms-3/e0a375e6442995f1692e67f5fe828763/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/kruger/.gradle/caches/transforms-3/125ddcd8ad7bcb5dc7de42714924f4b6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/kruger/.gradle/caches/transforms-3/4698c8389aab97a13185bbdca047bcf7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/kruger/.gradle/caches/transforms-3/6c36648a6bd37ba2d1f05531ca2deed6/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/kruger/.gradle/caches/transforms-3/b05db79e7079058e2d60059f01fc6b7f/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/61529ac72903f3925a505af261f4a422/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/7951461335356812448b46d1de8ae0fa/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/36715528dfbd5eb6570fceea0308f534/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/kruger/.gradle/caches/transforms-3/0d50aa8e7d8ffd3dff2c66572b1a2e4b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/kruger/.gradle/caches/transforms-3/91064953f9f60a77a05589e19fcfd955/transformed/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kruger/.gradle/caches/transforms-3/f1a7da26f92244436eef724659972b60/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kruger/.gradle/caches/transforms-3/4b843f8215445c3ffbb1e8a129a25e5f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/6ceb17f97c6fe357805e769287369c59/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/kruger/.gradle/caches/transforms-3/becde9e5333968ac4802b5fea03a7247/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/kruger/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/kruger/.gradle/caches/transforms-3/b90441baec5d1ce0f5ac62b8f0d5a370/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/kruger/.gradle/caches/transforms-3/105dbcdd81ebb6b5d97d4fc79274ce34/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kruger/.gradle/caches/transforms-3/3d57e67c0a1f2752984ca23f012631f4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/kruger/.gradle/caches/transforms-3/c746985a28d90726e5d0a53adc67ef25/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/kruger/.gradle/caches/transforms-3/b35d065bcb455bd11c74cf6b770de8ad/transformed/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kruger/.gradle/caches/transforms-3/089cc0deb553b26f347524a2dd1eaeac/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kruger/.gradle/caches/transforms-3/7af11670d425efaf60da5ca1ba948b2c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kruger/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kruger/.gradle/caches/transforms-3/0f9c50a330ecd86c1b6a92b5212f7aec/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/kruger/.gradle/caches/transforms-3/61c91e0375cb57d1f5aa7a6ac0b2e5bb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kruger/.gradle/caches/transforms-3/e1d8c2bc91e7b6cf427c9a8e7753caca/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kruger/.gradle/caches/transforms-3/aac1a50d844b366ae389c4ad8c4c6bdc/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/kruger/.gradle/caches/transforms-3/892633a0478b9a1bd28fcb531c9c77a4/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/kruger/.gradle/caches/transforms-3/ba14c88f8149f45a221b166a7af6d607/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/kruger/.gradle/caches/transforms-3/46d32f5374857db3a316836a99756419/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.15.0] /home/kruger/.gradle/caches/transforms-3/fa86932cafa03d5844b5930ce06ba10b/transformed/jetified-fuel-android-1.15.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.mcxiaoke.koi:core:0.5.5] /home/kruger/.gradle/caches/transforms-3/98bf7e2ff6181871b62636953fba55fa/transformed/jetified-core-0.5.5/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mcxiaoke.koi:async:0.5.5] /home/kruger/.gradle/caches/transforms-3/48b6cf5003d9385361ff63f94c7c3246/transformed/jetified-async-0.5.5/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kruger/.gradle/caches/transforms-3/24bf9b3527615c80284482f3fee2897d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.daimajia.swipelayout:library:1.2.0] /home/kruger/.gradle/caches/transforms-3/3c91209cee35d9506310e92b11290ac5/transformed/jetified-library-1.2.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/kruger/.gradle/caches/transforms-3/2c98c555c0147e0066b806c39a5444ce/transformed/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kruger/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+MERGED from [:vocsy_epub_viewer] /home/kruger/Leitor-de-eBooks/build/vocsy_epub_viewer/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:vocsy_epub_viewer] /home/kruger/Leitor-de-eBooks/build/vocsy_epub_viewer/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /home/kruger/Leitor-de-eBooks/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] /home/kruger/Leitor-de-eBooks/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /home/kruger/Leitor-de-eBooks/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /home/kruger/Leitor-de-eBooks/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/kruger/Leitor-de-eBooks/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/kruger/Leitor-de-eBooks/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:8:5-11:82
+MERGED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:8:5-11:82
+MERGED from [com.github.codetoart:r2-shared-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/dee7302e1f62fbc7cd928c3d7d806e92/transformed/jetified-r2-shared-kotlin-1.0.4-2/AndroidManifest.xml:14:5-16:41
+MERGED from [com.github.codetoart:r2-shared-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/dee7302e1f62fbc7cd928c3d7d806e92/transformed/jetified-r2-shared-kotlin-1.0.4-2/AndroidManifest.xml:14:5-16:41
+MERGED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:14:5-16:41
+MERGED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:14:5-16:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /home/kruger/.gradle/caches/transforms-3/ad4b6667b485239ae5e13d4eba5d4ba1/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/kruger/.gradle/caches/transforms-3/ad4b6667b485239ae5e13d4eba5d4ba1/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/kruger/.gradle/caches/transforms-3/ee009c2d3e23957b0e52a038e470c965/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/kruger/.gradle/caches/transforms-3/ee009c2d3e23957b0e52a038e470c965/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/kruger/.gradle/caches/transforms-3/f234011b5a70ed25f63088c247b66beb/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/kruger/.gradle/caches/transforms-3/f234011b5a70ed25f63088c247b66beb/transformed/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kruger/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kruger/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/kruger/.gradle/caches/transforms-3/dc2e7179475514c45f1b109d375e9af1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/kruger/.gradle/caches/transforms-3/dc2e7179475514c45f1b109d375e9af1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/kruger/.gradle/caches/transforms-3/df34f3a7e93a7e60a840c42b5d37e0c9/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/kruger/.gradle/caches/transforms-3/df34f3a7e93a7e60a840c42b5d37e0c9/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kruger/.gradle/caches/transforms-3/e0a375e6442995f1692e67f5fe828763/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kruger/.gradle/caches/transforms-3/e0a375e6442995f1692e67f5fe828763/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/kruger/.gradle/caches/transforms-3/125ddcd8ad7bcb5dc7de42714924f4b6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/kruger/.gradle/caches/transforms-3/125ddcd8ad7bcb5dc7de42714924f4b6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kruger/.gradle/caches/transforms-3/4698c8389aab97a13185bbdca047bcf7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kruger/.gradle/caches/transforms-3/4698c8389aab97a13185bbdca047bcf7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/kruger/.gradle/caches/transforms-3/6c36648a6bd37ba2d1f05531ca2deed6/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/kruger/.gradle/caches/transforms-3/6c36648a6bd37ba2d1f05531ca2deed6/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/kruger/.gradle/caches/transforms-3/b05db79e7079058e2d60059f01fc6b7f/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/kruger/.gradle/caches/transforms-3/b05db79e7079058e2d60059f01fc6b7f/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/61529ac72903f3925a505af261f4a422/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/61529ac72903f3925a505af261f4a422/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/7951461335356812448b46d1de8ae0fa/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/7951461335356812448b46d1de8ae0fa/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/36715528dfbd5eb6570fceea0308f534/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/36715528dfbd5eb6570fceea0308f534/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kruger/.gradle/caches/transforms-3/0d50aa8e7d8ffd3dff2c66572b1a2e4b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kruger/.gradle/caches/transforms-3/0d50aa8e7d8ffd3dff2c66572b1a2e4b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/kruger/.gradle/caches/transforms-3/91064953f9f60a77a05589e19fcfd955/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/kruger/.gradle/caches/transforms-3/91064953f9f60a77a05589e19fcfd955/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kruger/.gradle/caches/transforms-3/f1a7da26f92244436eef724659972b60/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kruger/.gradle/caches/transforms-3/f1a7da26f92244436eef724659972b60/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kruger/.gradle/caches/transforms-3/4b843f8215445c3ffbb1e8a129a25e5f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kruger/.gradle/caches/transforms-3/4b843f8215445c3ffbb1e8a129a25e5f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/6ceb17f97c6fe357805e769287369c59/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/kruger/.gradle/caches/transforms-3/6ceb17f97c6fe357805e769287369c59/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/kruger/.gradle/caches/transforms-3/becde9e5333968ac4802b5fea03a7247/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/kruger/.gradle/caches/transforms-3/becde9e5333968ac4802b5fea03a7247/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/kruger/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/kruger/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/kruger/.gradle/caches/transforms-3/b90441baec5d1ce0f5ac62b8f0d5a370/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/kruger/.gradle/caches/transforms-3/b90441baec5d1ce0f5ac62b8f0d5a370/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/kruger/.gradle/caches/transforms-3/105dbcdd81ebb6b5d97d4fc79274ce34/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/kruger/.gradle/caches/transforms-3/105dbcdd81ebb6b5d97d4fc79274ce34/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kruger/.gradle/caches/transforms-3/3d57e67c0a1f2752984ca23f012631f4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kruger/.gradle/caches/transforms-3/3d57e67c0a1f2752984ca23f012631f4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/kruger/.gradle/caches/transforms-3/c746985a28d90726e5d0a53adc67ef25/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/kruger/.gradle/caches/transforms-3/c746985a28d90726e5d0a53adc67ef25/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/kruger/.gradle/caches/transforms-3/b35d065bcb455bd11c74cf6b770de8ad/transformed/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/kruger/.gradle/caches/transforms-3/b35d065bcb455bd11c74cf6b770de8ad/transformed/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kruger/.gradle/caches/transforms-3/089cc0deb553b26f347524a2dd1eaeac/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kruger/.gradle/caches/transforms-3/089cc0deb553b26f347524a2dd1eaeac/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kruger/.gradle/caches/transforms-3/7af11670d425efaf60da5ca1ba948b2c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kruger/.gradle/caches/transforms-3/7af11670d425efaf60da5ca1ba948b2c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kruger/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kruger/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kruger/.gradle/caches/transforms-3/0f9c50a330ecd86c1b6a92b5212f7aec/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kruger/.gradle/caches/transforms-3/0f9c50a330ecd86c1b6a92b5212f7aec/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/kruger/.gradle/caches/transforms-3/61c91e0375cb57d1f5aa7a6ac0b2e5bb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/kruger/.gradle/caches/transforms-3/61c91e0375cb57d1f5aa7a6ac0b2e5bb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kruger/.gradle/caches/transforms-3/e1d8c2bc91e7b6cf427c9a8e7753caca/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kruger/.gradle/caches/transforms-3/e1d8c2bc91e7b6cf427c9a8e7753caca/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kruger/.gradle/caches/transforms-3/aac1a50d844b366ae389c4ad8c4c6bdc/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kruger/.gradle/caches/transforms-3/aac1a50d844b366ae389c4ad8c4c6bdc/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/kruger/.gradle/caches/transforms-3/892633a0478b9a1bd28fcb531c9c77a4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/kruger/.gradle/caches/transforms-3/892633a0478b9a1bd28fcb531c9c77a4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/kruger/.gradle/caches/transforms-3/ba14c88f8149f45a221b166a7af6d607/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/kruger/.gradle/caches/transforms-3/ba14c88f8149f45a221b166a7af6d607/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/kruger/.gradle/caches/transforms-3/46d32f5374857db3a316836a99756419/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/kruger/.gradle/caches/transforms-3/46d32f5374857db3a316836a99756419/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.15.0] /home/kruger/.gradle/caches/transforms-3/fa86932cafa03d5844b5930ce06ba10b/transformed/jetified-fuel-android-1.15.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.15.0] /home/kruger/.gradle/caches/transforms-3/fa86932cafa03d5844b5930ce06ba10b/transformed/jetified-fuel-android-1.15.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.mcxiaoke.koi:core:0.5.5] /home/kruger/.gradle/caches/transforms-3/98bf7e2ff6181871b62636953fba55fa/transformed/jetified-core-0.5.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.mcxiaoke.koi:core:0.5.5] /home/kruger/.gradle/caches/transforms-3/98bf7e2ff6181871b62636953fba55fa/transformed/jetified-core-0.5.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.mcxiaoke.koi:async:0.5.5] /home/kruger/.gradle/caches/transforms-3/48b6cf5003d9385361ff63f94c7c3246/transformed/jetified-async-0.5.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.mcxiaoke.koi:async:0.5.5] /home/kruger/.gradle/caches/transforms-3/48b6cf5003d9385361ff63f94c7c3246/transformed/jetified-async-0.5.5/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kruger/.gradle/caches/transforms-3/24bf9b3527615c80284482f3fee2897d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kruger/.gradle/caches/transforms-3/24bf9b3527615c80284482f3fee2897d/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.daimajia.swipelayout:library:1.2.0] /home/kruger/.gradle/caches/transforms-3/3c91209cee35d9506310e92b11290ac5/transformed/jetified-library-1.2.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.swipelayout:library:1.2.0] /home/kruger/.gradle/caches/transforms-3/3c91209cee35d9506310e92b11290ac5/transformed/jetified-library-1.2.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/kruger/.gradle/caches/transforms-3/2c98c555c0147e0066b806c39a5444ce/transformed/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/kruger/.gradle/caches/transforms-3/2c98c555c0147e0066b806c39a5444ce/transformed/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kruger/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kruger/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:11:9-79
+	android:targetSdkVersion
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:14:5-67
+MERGED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /home/kruger/Leitor-de-eBooks/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:13:22-78
+provider#com.folioreader.AppContext
+ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:20:9-23:40
+	android:authorities
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:22:13-71
+	android:exported
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:21:13-54
+activity#com.folioreader.ui.activity.FolioActivity
+ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:25:9-29:60
+	android:label
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:28:13-45
+	android:exported
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:29:13-57
+	android:name
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:26:13-69
+activity#com.folioreader.ui.activity.ContentHighlightActivity
+ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:30:9-33:59
+	android:exported
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:31:13-80
+activity#com.folioreader.ui.activity.SearchActivity
+ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:34:9-45:20
+	android:launchMode
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:37:13-43
+	android:exported
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:35:13-70
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:38:13-40:29
+action#android.intent.action.SEARCH
+ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:39:17-71
+	android:name
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:39:25-68
+meta-data#android.app.searchable
+ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:42:13-44:54
+	android:resource
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:44:17-51
+	android:name
+		ADDED from [com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:43:17-54
+provider#org.readium.r2.streamer.ClientAppContext
+ADDED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:22:9-25:40
+	android:authorities
+		ADDED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:24:13-77
+	android:exported
+		ADDED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:23:13-68
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79

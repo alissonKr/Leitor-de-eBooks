@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ebooks_reader.app-mergeDebugResources-19:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/kruger/.gradle/caches/transforms-3/ee009c2d3e23957b0e52a038e470c965/transformed/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

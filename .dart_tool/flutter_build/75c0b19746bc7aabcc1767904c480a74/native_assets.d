@@ -1,0 +1,1 @@
+ /home/kruger/Leitor-de-eBooks/.dart_tool/flutter_build/75c0b19746bc7aabcc1767904c480a74/native_assets.yaml: 
