@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

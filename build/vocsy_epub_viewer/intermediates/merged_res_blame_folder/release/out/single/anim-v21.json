@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

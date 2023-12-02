@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

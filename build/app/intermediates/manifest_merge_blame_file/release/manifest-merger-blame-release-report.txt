@@ -1,0 +1,171 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ebooks_reader"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:13:5-81
+11-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:13:22-78
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:14:5-67
+12-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:14:22-64
+13
+14    <application
+15        android:name="android.app.Application"
+15-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:4:9-42
+16        android:allowBackup="true"
+16-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:17:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.6.0] /home/kruger/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+18        android:icon="@mipmap/ic_launcher"
+18-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:5:9-43
+19        android:label="ebooks_reader"
+19-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:3:9-38
+20        android:networkSecurityConfig="@xml/network_security_config"
+20-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:18:9-69
+21        android:supportsRtl="true" >
+21-->[com.github.codetoart:r2-shared-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/dee7302e1f62fbc7cd928c3d7d806e92/transformed/jetified-r2-shared-kotlin-1.0.4-2/AndroidManifest.xml:20:9-35
+22        <activity
+22-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:6:9-26:20
+23            android:name="com.example.ebooks_reader.MainActivity"
+23-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:7:13-41
+24            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+24-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:11:13-163
+25            android:exported="true"
+25-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:8:13-36
+26            android:hardwareAccelerated="true"
+26-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:12:13-47
+27            android:launchMode="singleTop"
+27-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:9:13-43
+28            android:theme="@style/LaunchTheme"
+28-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:10:13-47
+29            android:windowSoftInputMode="adjustResize" >
+29-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:13:13-55
+30
+31            <!--
+32                 Specifies an Android theme to apply to this Activity as soon as
+33                 the Android process has started. This theme is visible to the user
+34                 while the Flutter UI initializes. After that, this theme continues
+35                 to determine the Window background behind the Flutter UI.
+36            -->
+37            <meta-data
+37-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:18:13-21:17
+38                android:name="io.flutter.embedding.android.NormalTheme"
+38-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:19:15-70
+39                android:resource="@style/NormalTheme" />
+39-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:20:15-52
+40
+41            <intent-filter>
+41-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:22:13-25:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:23:17-68
+42-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:23:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:24:17-76
+44-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:24:27-74
+45            </intent-filter>
+46        </activity>
+47        <!--
+48             Don't delete the meta-data below.
+49             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+50        -->
+51        <meta-data
+51-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:29:9-31:33
+52            android:name="flutterEmbedding"
+52-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:30:13-44
+53            android:value="2" />
+53-->/home/kruger/Leitor-de-eBooks/android/app/src/main/AndroidManifest.xml:31:13-30
+54
+55        <provider
+55-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:20:9-23:40
+56            android:name="com.folioreader.AppContext"
+56-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:21:13-54
+57            android:authorities="com.example.ebooks_reader.provider.appcontext"
+57-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:22:13-71
+58            android:exported="false" />
+58-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:23:13-37
+59
+60        <activity
+60-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:25:9-29:60
+61            android:name="com.folioreader.ui.activity.FolioActivity"
+61-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:26:13-69
+62            android:exported="true"
+62-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:27:13-36
+63            android:label="@string/app_name"
+63-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:28:13-45
+64            android:theme="@style/FolioActivityDayTheme" />
+64-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:29:13-57
+65        <activity
+65-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:30:9-33:59
+66            android:name="com.folioreader.ui.activity.ContentHighlightActivity"
+66-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:31:13-80
+67            android:exported="true"
+67-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:32:13-36
+68            android:theme="@style/AppTheme.NoActionBar" />
+68-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:33:13-56
+69        <activity
+69-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:34:9-45:20
+70            android:name="com.folioreader.ui.activity.SearchActivity"
+70-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:35:13-70
+71            android:exported="true"
+71-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:36:13-36
+72            android:launchMode="singleTop" >
+72-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:37:13-43
+73            <intent-filter>
+73-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:38:13-40:29
+74                <action android:name="android.intent.action.SEARCH" />
+74-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:39:17-71
+74-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:39:25-68
+75            </intent-filter>
+76
+77            <meta-data
+77-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:42:13-44:54
+78                android:name="android.app.searchable"
+78-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:43:17-54
+79                android:resource="@xml/searchable" />
+79-->[com.github.kaushikgodhani:vocsy_epub_viewer_android_folioreader:V4] /home/kruger/.gradle/caches/transforms-3/0a3f8254b6fc7947fa3249d6e5585757/transformed/jetified-vocsy_epub_viewer_android_folioreader-V4/AndroidManifest.xml:44:17-51
+80        </activity>
+81
+82        <provider
+82-->[com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:22:9-25:40
+83            android:name="org.readium.r2.streamer.ClientAppContext"
+83-->[com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:23:13-68
+84            android:authorities="com.example.ebooks_reader.provider.clientappcontext"
+84-->[com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:24:13-77
+85            android:exported="false" />
+85-->[com.github.codetoart:r2-streamer-kotlin:1.0.4-2] /home/kruger/.gradle/caches/transforms-3/22564906d3a2042b55b8e8f6c43e806d/transformed/jetified-r2-streamer-kotlin-1.0.4-2/AndroidManifest.xml:25:13-37
+86
+87        <uses-library
+87-->[androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+88            android:name="androidx.window.extensions"
+88-->[androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+89            android:required="false" />
+89-->[androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+90        <uses-library
+90-->[androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+91            android:name="androidx.window.sidecar"
+91-->[androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+92            android:required="false" />
+92-->[androidx.window:window:1.0.0-beta04] /home/kruger/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+93
+94        <provider
+94-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+95            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+95-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+96            android:authorities="com.example.ebooks_reader.lifecycle-process"
+96-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+97            android:exported="false"
+97-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+98            android:multiprocess="true" />
+98-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/kruger/.gradle/caches/transforms-3/955b32243b75320d899d1942070a3f1b/transformed/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+99    </application>
+100
+101</manifest>

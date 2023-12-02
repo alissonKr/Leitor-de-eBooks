@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/kruger/.gradle/caches/transforms-3/ee009c2d3e23957b0e52a038e470c965/transformed/appcompat-1.1.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.vocsy.epub_viewer.vocsy_epub_viewer-mergeReleaseResources-18:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/kruger/.gradle/caches/transforms-3/ee009c2d3e23957b0e52a038e470c965/transformed/appcompat-1.1.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

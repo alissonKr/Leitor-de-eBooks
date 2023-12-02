@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_popup_enter.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_slide_in_bottom.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/enter_from_right.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/enter_from_right.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/slide_out_left.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/shrink_from_bottom.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/shrink_from_bottom.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/design_snackbar_in.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/disappear.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/disappear.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/grow_from_bottomright_to_topleft.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/shrink_from_topright_to_bottomleft.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/grow_from_bottom.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/grow_from_topright_to_bottomleft.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_fade_out.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/pump_top.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/pump_top.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_tooltip_exit.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_popup_exit.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/enter_from_left.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/enter_from_left.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/slide_out_up.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/design_snackbar_out.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/exit_to_left.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/exit_to_left.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/shrink_from_bottomleft_to_topright.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/grow_from_bottomleft_to_topright.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/slide_in_up.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_tooltip_enter.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_slide_out_bottom.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/pump_bottom.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/pump_bottom.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/grow_from_top.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/fadein.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/fadein.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/slide_down.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/shrink_from_topleft_to_bottomright.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/grow_from_topleft_to_bottomright.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/slide_up.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_slide_out_top.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/exit_to_right.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/exit_to_right.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_fade_in.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/shrink_from_top.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/shrink_from_top.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/shrink_from_bottomright_to_topleft.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/fadeout.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/fadeout.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/slide_in_left.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/anim/abc_slide_in_top.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/anim/abc_slide_in_top.xml"
+    }
+]

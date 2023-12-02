@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/abc_color_highlight_material.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/abc_tint_switch_track.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/abc_tint_spinner.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/abc_tint_default.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/design_tint_password_toggle.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/abc_tint_edittext.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

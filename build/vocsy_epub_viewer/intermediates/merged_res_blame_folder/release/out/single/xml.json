@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/xml/searchable.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/xml/searchable.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/xml/network_security_config.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-jetified-vocsy_epub_viewer_android_folioreader-V4-2:/xml/network_security_config.xml"
+    }
+]

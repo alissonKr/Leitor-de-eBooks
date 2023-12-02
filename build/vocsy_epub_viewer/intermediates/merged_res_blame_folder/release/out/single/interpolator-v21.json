@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    }
+]

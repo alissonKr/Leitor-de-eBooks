@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/avd_hide_password.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/avd_show_password.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/abc_btn_colored_material.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/abc_list_divider_material.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/design_password_eye.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/abc_dialog_material_background.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-material-1.0.0-9:/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/notification_action_background.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-core-1.6.0-11:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.vocsy.epub_viewer.vocsy_epub_viewer-merged_res-20:/drawable-v21/abc_edit_text_material.xml",
+        "source": "com.vocsy.epub_viewer.vocsy_epub_viewer-appcompat-1.1.0-13:/drawable-v21/abc_edit_text_material.xml"
+    }
+]

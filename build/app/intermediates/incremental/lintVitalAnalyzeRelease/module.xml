@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/kruger/Leitor-de-eBooks/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/home/kruger/Leitor-de-eBooks/build/app"
+    bootClassPath="/home/kruger/Android/Sdk/platforms/android-33/android.jar:/home/kruger/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
